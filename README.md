@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**efeibrahimm/efeibrahimm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**efeibrahimm/efeibrahimm** 
 
 * 🌍  I'm based in Turkey
 * ✉️  You can contact me at [ibrahim.efee@hotmail.com](mailto:ibrahim.efee@hotmail.com)
